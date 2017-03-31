@@ -1,5 +1,5 @@
 {
-  "name": "hello/world",
+  "name": "learn/hello/world",
   "require": {
     "php": ">=5.4.0"
   }
